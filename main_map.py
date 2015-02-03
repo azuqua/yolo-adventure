@@ -3,7 +3,7 @@ __author__ = 'Wilson'
 from setup import *
 
 def main():
-    # Get argument for wordlist.txt
+    # Get argument for mapfile.txt
     try:
         arg_1 = sys.argv[1]
     except:
